@@ -1,0 +1,2 @@
+Hello Odin!
+Sample commit using VSCode
